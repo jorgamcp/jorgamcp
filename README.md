@@ -33,7 +33,8 @@ I worked with **![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-b
 </br>
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-Y estoy aprendiendo actualmente a trabajar con ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) una base de datos no relacional
+Now I'm learning how to work with NOSQL databases like ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
 ## Idioms
-![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white) All days i'm practising English and Japanese
+![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white) All days i'm practising English and Japanese because I love anime/manga 
+
