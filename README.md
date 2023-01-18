@@ -15,7 +15,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Tecnologías:
+## Technologies /Tecnologías :
 
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
@@ -28,7 +28,7 @@
 I worked with **![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) CORE 3.1**  in my internship 
 
 
-## Bases de datos:
+##  Databases / Base de datos:
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 </br>
@@ -36,6 +36,6 @@ I worked with **![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-b
 
 Now I'm learning how to work with NOSQL databases like ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
-## Idioms
+## Idioms / Idiomas
 ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white) All days i'm practising English and Japanese because I love anime/manga 
 
