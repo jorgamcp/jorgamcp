@@ -58,6 +58,6 @@ Now I'm learning how to work with NOSQL databases like ![MongoDB](https://img.sh
   - Take a look at ![](https://img.shields.io/badge/Fedora-51A2DA.svg?style=for-the-badge&logo=Fedora&logoColor=white)
 
 
-## Idioms / Idiomas
+## Languages / Idiomas
 ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white) All days i'm practising English and Japanese because I love anime/manga 
 
