@@ -2,6 +2,7 @@
 
 - I'm trainee software developer. 
 - I enjoy developing web apps using C#. I prefer backend development than frontend.
+- Also I'm Vtuber in @otakubinary
 <!--
 **jorgam31/jorgam31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
